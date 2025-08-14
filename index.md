@@ -15,4 +15,4 @@ If you want to use this space to write your biography here, edit the `index.md` 
 
 ### More about me:
 
-- [my CV](https://github.com/fancatfkl/CV)
+- [my CV](https://github.com/fancatfkl/CV/cv.pdf)
