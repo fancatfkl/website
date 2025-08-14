@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 4
-description: another project
+title: Undergraduate thesis
+description: I wrote my thesis under the supervision of Dr. Katie Lavigne at the Douglas Research Centre, Montreal, Canada.
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
